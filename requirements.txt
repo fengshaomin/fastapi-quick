@@ -1,0 +1,8 @@
+PyMySQL==1.0.2
+DBUtils==2.0.2
+uvicorn==0.14.0
+requests==2.20.0
+baidu_aip==2.2.18.0
+fastapi==0.68.0
+python_stdnum==1.16
+python-multipart
